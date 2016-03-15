@@ -3,3 +3,4 @@
 
 点击后返回点击文字显示
 
+![](https://github.com/sidiaoling/XZ-DropdownMenu/blob/master/Untitled.gif)
