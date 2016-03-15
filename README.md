@@ -7,9 +7,9 @@
 
 使用方法
 =====
-DropdownMenu *dropdown = [[DropdownMenu alloc] initDropdownWithButtonTitles:_titleArray andLeftListArray:_leftArray andRightListArray:_rightArray];
-    dropdown.delegate = self;   //代理返回选中下标
-    [self.view addSubview:dropdown.view];
+        DropdownMenu *dropdown = [[DropdownMenu alloc] initDropdownWithButtonTitles:_titleArray andLeftListArray:_leftArray         andRightListArray:_rightArray];
+        dropdown.delegate = self;   //代理返回选中下标
+        [self.view addSubview:dropdown.view];
     
 
 //实现代理
